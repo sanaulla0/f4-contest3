@@ -1,0 +1,12 @@
+body{
+ color: white;
+ border: 100px;
+ 
+}
+.get{
+  color: rgb(153, 187, 104);
+   border: 2px solid white;
+   text-align: center;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   margin: 10px;
+}
